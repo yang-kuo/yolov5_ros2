@@ -1,0 +1,3 @@
+（1）如果要是使用前后相机切换需要功能包里面的setup.py里面的entry_points进行选择性注释，然后编译，使用双相机需要订阅运动方向话题
+（2）使用单相机时运行的gmsl的launch文件为gmsl_launch.py，运行双相机时运行的gmsl的launch文件为multi_camera_launch.py
+
